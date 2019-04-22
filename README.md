@@ -1,2 +1,3 @@
 # Boggle
-Classic Word Game
+Classic Word Game.
+Makes use of recursive backtracking
